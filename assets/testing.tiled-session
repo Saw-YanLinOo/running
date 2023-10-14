@@ -1,0 +1,30 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "hello.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.35
+        },
+        "rayworld_tileset.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.3231
+        },
+        "testing.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.1484
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "testing.tiled-project",
+    "recentFiles": [
+        "rayworld_tileset.json",
+        "hello.tsx",
+        "testing.tsx"
+    ]
+}
