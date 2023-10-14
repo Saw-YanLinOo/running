@@ -1,10 +1,15 @@
-# run
+# Running
 
-A new Flutter project.
+This is open world game project made with flutter flame.
+
+# UI
+
+![Screenshot_1697315137](https://github.com/Saw-YanLinOo/running/assets/63788675/ad7746a0-ae36-4403-82c7-913384c9eb0a)
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
